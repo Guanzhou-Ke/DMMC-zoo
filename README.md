@@ -16,4 +16,4 @@ The detail see `requirements.txt`.
 ## Algorithms
 
 - [x] [DCCA an DCCAE](./DCCAE)
-- [] [Deep Multimodal Subspace Clustering Networks(DMSC)](./)
+- [ ] [Deep Multimodal Subspace Clustering Networks(DMSC)](./)
