@@ -8,12 +8,15 @@ This is my first try to combine and reproduce the major variants of Deep Multi-M
 
 ## Environment
 
-The detail see `requirements.txt`.
+For the detail, sees `requirements.txt` from each subfolder.
 
 - python 3.8
 - pytorch 1.7.1 (cuda 10.1)
+- pytorch-lightning 1.2.1
 
 ## Algorithms
 
 - [x] [DCCA an DCCAE](./DCCAE)
-- [ ] [Deep Multimodal Subspace Clustering Networks(DMSC)](./)
+- [x] [Deep Multimodal Subspace Clustering Networks(DMSC)](./DMSC)
+- [ ] [Deep adversarial multi-view clustering network(DAMC)](./DAMC)
+- [ ] [End-to-end adversarial-attention network for multi-modal clustering(EAMC)](./EAMC)

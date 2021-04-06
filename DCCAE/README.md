@@ -1,4 +1,4 @@
-# DCCAE-with-pytorch
+# DCCAE
 This is a non official implementation version of DCCAE via `pytorch`.
 
 **NOTE:** This project just implements DCCAE and only refers Deep CCA version by [Michaelvll](https://github.com/Michaelvll/DeepCCA) and [VahidooX](https://github.com/VahidooX/DeepCCA).
